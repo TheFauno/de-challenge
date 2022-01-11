@@ -33,3 +33,14 @@ The app "read" the TRF file from storage and calculate the metrics from it, when
 * The worst 10 games for each console/company: worst_concole_company
 * The top 10 best games for all consoles: best_consoles
 * The worst 10 games for all consoles: worst_consoles
+
+
+## Tools used
+
+For modeling i used StarUML because it's free and have the possibility to create data models.
+
+For data exploration jupyter lab and pandas where used,  this because with jupyter its possible to see every step execution more clearly and do the exploratory analysis in the datasets more interactive. 
+
+Visual Studio Code for coding with extensions for python,  its the code editor i feel mor comfortable since you can add or remove extensions.
+
+GCP: I used cloud technologies (GCP) specifically because over onpremises technologies its more easier and quick to deploy than start a configuration from 0. Also at great scale this benefits can be seen more clearly.
